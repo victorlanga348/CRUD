@@ -3,3 +3,10 @@ node_modules
 .env
 
 /generated/prisma
+
+node_modules
+.env
+.prisma
+prisma/*.db
+prisma/*.db-journal
+dist
